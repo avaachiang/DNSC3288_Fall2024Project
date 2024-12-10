@@ -79,7 +79,7 @@ history <- model %>% fit(
 (*Test AUC taken from [https://github.com/avaachiang/DNSC3288_Fall2024Project/blob/main/DigitRecognizer.R] after being submitted on Kaggle Competition Digit Recognizer)
 
 #### Training and Validation Prediction Accuracy 
-![Training and Validation Prediction Accuracy ](file:///Users/avachiang/DigitRecognizer/accuracyvalues.html)
+![Training and Validation Prediction Accuracy](https://github.com/avaachiang/DNSC3288_Fall2024Project/blob/main/accuracyvalues.html)
 (*the value 1 on the x-axis corresponds to the Digit 0, and so on*)
 
 #### Sample Prediction for Each Digit (0-9)
